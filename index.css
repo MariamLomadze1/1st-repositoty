@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+img {
+  float: left;
+  padding-left:60px;
+}
+.maintexts {
+  color:#138D75;
+  font-size:25px;
+  padding-left: 450px;
+  padding-top:60px;
+}
+p5 {
+  textcolor: red;
+}
+body {
+  background-image: <a href="https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1";
+}
+body {
+  background-color: #E59866;
+  
+}
+img { border: 5px solid #FBFCFC;
+}
